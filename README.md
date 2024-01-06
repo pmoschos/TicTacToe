@@ -24,7 +24,7 @@ Ensure you have Android Studio installed. Clone the repository and open it in An
 
 ### 📚 Clone the Repo
 ```bash
-git clone https://github.com/pmoschos/AndroidTicTacToe
+git clone https://github.com/pmoschos/TicTacToe
 ```
 
 ### 🖱️ Open and Run
