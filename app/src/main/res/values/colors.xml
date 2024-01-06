@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bgColor">#DCF2F1</color>
+    <color name="alertColor">#DCF2F1</color>
+    <color name="blue">#7FC7D9</color>
+    <color name="deepBlue">#365486</color>
+    <color name="buttons">#DCF2F1</color>
+    <color name="alertDialog">#365486</color>
+
+</resources>
